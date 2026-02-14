@@ -1,4 +1,4 @@
-#  Public Infrastructure Failure Detector
+# Smart Public Infrastructure Failure Predictor
 
 ## Project Overview
 
